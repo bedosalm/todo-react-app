@@ -1,0 +1,43 @@
+
+.p{
+    color: red;
+}
+
+.List-Content{
+  
+}
+
+.List-Content .list{
+    margin: 5px 0;
+
+}
+
+.List-Content .list span{
+
+    display: inline-block;
+    min-width: 35%;
+    padding: 10px 5px;
+    border: 1px solid #fdf6f6;
+    background-color: #c4dcff;
+
+}
+.no-tasks{
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+    background-color: #fff;
+    margin-bottom: 15px;
+}
+
+.del-btn{
+    padding: 0px;
+    line-height: 41px;
+    width: 30%;
+    position: relative;
+    top: -2px;
+    border: none;
+    background-color: crimson;
+    color: #fff;
+}
